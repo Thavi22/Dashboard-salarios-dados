@@ -1,13 +1,21 @@
 ## Dashboard de Análise de Salários na Área de Dados
 
-Este projeto foi desenvolvido durante a **Imersão de Dados com Python**, com foco em análise e visualização de dados utilizando **Streamlit**.
+Este projeto foi desenvolvido durante a **Imersão de Dados com Python**, com o objetivo de analisar e visualizar informações salariais na área de dados.
 
-O objetivo foi aplicar conceitos de **análises de dados**, **visualização interativa** e **comunicação de insights** por meio da construção de um dashboard totalmente interativo utilizando **Streamlit**.
+## Objetivo  
 
-##Objetivo do Projeto 
+Contruir um **dashboard interativo** em Streamlit que permita:
+- Filtrar dados por ano, senioridade, tipo de contrato e tamanho da empresa.
+- Exibir métricas como salário médio, salário máximo, total de registros e cargo mais frequente.
+- Visualizar gráficos dinâmicos que facilitem a análise de tendências salariais.
 
-O dashboard permite a exploração de dados salariais no setor de dados, possibilitando: 
-- Filtrar por **ano**, **nível de senioridade**, **tipo de contrato**, e **tamanho da empresa**.
-- Analisar a distribuição salarial e os cargos mais bem remunerados.
-- Explorar visualizações dinâmicas que facilitam a identificação de padrões e tendências no mercado.
+## Base de Dados 
+A base de dados utilizada contém informações como:
+- Ano 
+- Cargo
+- Senioridade
+- Tipo de contrato 
+- Tamanho da empresa
+- Salário anual em USD 
   
+O dashboard final permite a exploração interativa dos dados, auxiliando profissionais e empresas a compreender o cenário de salários na área de dados.
